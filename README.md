@@ -1,0 +1,1 @@
+# iamschaefer_rubymine_settings
